@@ -1,2 +1,2 @@
 # Notes App
-[Link to App](https://mic-git.github.io/notes_app/public/index.html)
+[Link to App](https://m-notes-app.netlify.app/)
